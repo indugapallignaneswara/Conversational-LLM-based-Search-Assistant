@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Log files
+*.log
+
+# Flask cache and session files
+instance/
+*.sqlite3
+*.db
+
+# Streamlit cache
+.streamlit/
+
+# Python egg and distribution files
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# pip related
+pip-log.txt
+pip-delete-this-directory.txt
+
+# mypy
+.mypy_cache/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+coverage.xml
+*.cover
+.hypothesis/
+
+# Environment and package files
+*.env
+*.venv
+*.virtualenv
+*.project
+.pyenv
+node_modules/
+package-lock.json
+
+# IDE specific
+*.sublime-workspace
+*.sublime-project
+*.tmproj
+*.swp

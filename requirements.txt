@@ -1,0 +1,6 @@
+python-dotenv
+flask
+openai==0.28
+requests
+streamlit
+beautifulsoup4
