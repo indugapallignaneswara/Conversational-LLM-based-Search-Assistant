@@ -39,8 +39,8 @@ Bonus points: If you use Langchain (or similar tools to add memory to the system
 ### Step 1: Clone or download the Repository (if emailed)
 
 ```bash
-git clone https://github.com/your-repo-url.git
-cd project_name
+git clone https://github.com/indugapallignaneswara/Conversational-LLM-based-Search-Assistant
+cd Conversational-LLM-based-Search-Assistant
 ```
 
 Or download it
@@ -102,13 +102,3 @@ Open your web browser and go to `http://localhost:8501`. You can now interact wi
 - **streamlit_app/**: Contains the Streamlit front-end code.
 - **.env**: Stores API keys (make sure this file is not included in version control).
 - **requirements.txt**: Lists the project dependencies.
-
-## Task Instructions for Candidates
-
-You are required to complete the following:
-
-1. Implement the functionality to fetch, process, and generate responses from an LLM using the provided APIs.
-2. Integrate the APIs with the Flask backend.
-3. Display the results in the Streamlit frontend.
-
-Good luck!
